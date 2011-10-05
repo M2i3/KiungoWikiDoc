@@ -1,0 +1,58 @@
+<mockup version="1.0" skin="sketch" measuredW="1172" measuredH="672" mockupW="1080" mockupH="645">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="82" y="17" w="1080" h="645" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>KiungoWiki%0Ahttp%3A//fr.kiugowiki.org</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="142" y="87" w="960" h="538" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::LinkBar" x="240" y="567" w="-1" h="-1" measuredW="763" measuredH="25" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Accueil%2C%20Changements%20r%E9cents%2C%20Conditions%20d%27utilisation%2C%20Nous%20contacter%2C%20%C0%20propos%20de%20KiungoWiki%2C%20Plan%20du%20site</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="269" y="592" w="705" h="25" measuredW="629" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>%28c%29%202011%20Kiungowiki%20%5C-%20Pierre%20Freyssonnet%2C%20Copyrights%20des%20textes%20et%20chansons%20-%20artistes%20respectifs</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Title" x="146" y="91" w="-1" h="-1" measuredW="264" measuredH="26" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>KiungoWiki%20-%20La%20r%E9f%E9rence%20en%20musique</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::LinkBar" x="954" y="91" w="-1" h="-1" measuredW="141" measuredH="25" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Accueil%2C%20Mon%20profil</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::LinkBar" x="783" y="139" w="-1" h="-1" measuredW="309" measuredH="25" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>3</selectedIndex>
+        <text>Afficher%2C%20Modifier%2C%20Discuter%2C%20Historique</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::DataGrid" x="164" y="191" w="923" h="236" measuredW="809" measuredH="176" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>R%E9vision%2C%20Auteur%2C%20V%E9rificateur%2C%20Date%2C%20Commentaire%2C%20Diff%5Cr%28G%20-%20D%29%0A%5B54%20%28courante%29%5D%2C%20%5Bjmlagace%5D%2C%20%2C%2020-01-2011%2C%20%2C%20%28%20%29%20%28%20%29%0A%5B53%5D%2C%20%5Bmmayrand%5D%2C%20incorrect%20voir%20%5B54%5D%2C%2010-01-2011%2C%20Typo%20dans%20la%20premi%E8re%20phrase%20du%20refrain%2C%20%28%20%29%20%28%20%29%0A%5B52%5D%2C%20%5Bshawn%5D%2C%20%5Bmmayrand%5D%2C%2009-11-2010%2C%20Reformatter%20pour%20correspondre%20%E0%20la%20pochette%20du%20CD%20%5Crsrc%3A%20Amazon%20%5B35434534534%5D%2C%28%20%29%20%28%20%29%0A/etc./%2C%2C%2C%2C%2C%0A%7B0R%2C%200L%2C%200L%2C%200L%2C%20100L%2C%2010C%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Title" x="212" y="121" w="-1" h="-1" measuredW="399" measuredH="62" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>La%20Route%20est%20Longue</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Icon" x="157" y="128" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>TextAlignLeftIcon%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="838" y="442" w="-1" h="-1" measuredW="249" measuredH="28" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Comparer%20les%20r%E9visions%20s%E9lectionn%E9es</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

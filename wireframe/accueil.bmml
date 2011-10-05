@@ -1,0 +1,26 @@
+<mockup version="1.0" skin="sketch" measuredW="1172" measuredH="672" mockupW="1080" mockupH="645">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="82" y="17" w="1080" h="645" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>KiungoWiki%0Ahttp%3A//fr.kiugowiki.org</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="142" y="87" w="960" h="538" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="157" y="102" w="-1" h="-1" measuredW="745" measuredH="62" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>KiungoWiki%20-%20La%20r%E9f%E9rence%20en%20musique</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::LinkBar" x="240" y="567" w="-1" h="-1" measuredW="763" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Accueil%2C%20Changements%20r%E9cents%2C%20Conditions%20d%27utilisation%2C%20Nous%20contacter%2C%20%C0%20propos%20de%20KiungoWiki%2C%20Plan%20du%20site</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="269" y="592" w="705" h="25" measuredW="629" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>%28c%29%202011%20Kiungowiki%20%5C-%20Pierre%20Freyssonnet%2C%20Copyrights%20des%20textes%20et%20chansons%20-%20artistes%20respectifs</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
