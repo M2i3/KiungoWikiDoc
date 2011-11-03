@@ -6,30 +6,30 @@
       </controlProperties>
     </control>
     <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="142" y="87" w="960" h="982" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="146" y="91" w="-1" h="-1" measuredW="264" measuredH="26" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="146" y="91" w="-1" h="-1" measuredW="240" measuredH="22" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <size>14</size>
         <text>KiungoWiki%20-%20La%20r%E9f%E9rence%20en%20musique</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::LinkBar" x="240" y="1004" w="-1" h="-1" measuredW="763" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::LinkBar" x="240" y="1004" w="-1" h="-1" measuredW="704" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Accueil%2C%20Changements%20r%E9cents%2C%20Conditions%20d%27utilisation%2C%20Nous%20contacter%2C%20%C0%20propos%20de%20KiungoWiki%2C%20Plan%20du%20site</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="269" y="1029" w="705" h="25" measuredW="629" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="269" y="1029" w="705" h="25" measuredW="555" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <text>%28c%29%202011%20Kiungowiki%20%5C-%20Pierre%20Freyssonnet%2C%20Copyrights%20des%20textes%20et%20chansons%20-%20artistes%20respectifs</text>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::Title" x="212" y="121" w="505" h="-1" measuredW="399" measuredH="62" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Title" x="212" y="121" w="505" h="-1" measuredW="377" measuredH="50" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <align>left</align>
         <text>La%20Route%20est%20Longue</text>
       </controlProperties>
     </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="212" y="175" w="194" h="25" measuredW="194" measuredH="25" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="212" y="175" w="194" h="25" measuredW="170" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Date%20d%27%E9criture%3A%2015%20mai%201995</text>
       </controlProperties>
@@ -44,15 +44,15 @@
         <text>%5BVoir%20d%27autres%20chansons%20de%20Claude%20Dubois%5D%0A%5BVoir%20d%27autres%20chansons%20%E9crite%20le%2015%20mai%201995%5D%0A%20%0A%5BAcheter%20cet%20enregistrement%20sur%20iTunes%5D%0A%20%0A%5BSignaler%20une%20erreur%20sur%20cette%20fiche%5D</text>
       </controlProperties>
     </control>
-    <control controlID="16" controlTypeID="com.balsamiq.mockups::LinkBar" x="954" y="91" w="-1" h="-1" measuredW="141" measuredH="25" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::LinkBar" x="954" y="91" w="-1" h="-1" measuredW="124" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Accueil%2C%20Mon%20profil</text>
       </controlProperties>
     </control>
-    <control controlID="17" controlTypeID="com.balsamiq.mockups::LinkBar" x="783" y="139" w="-1" h="-1" measuredW="307" measuredH="25" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::LinkBar" x="783" y="139" w="-1" h="-1" measuredW="270" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <hrefs>%2C%2C%2Cpage-historique%26bm%3Bpage-historique.bmml%26bm%3Bpage-historique.bmml%26bm%3Bpage-historique.bmml</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22938%2C122%2C1008%2C147%22%20href%3D%22page-historique.bmml%22%20alt%3D%22page-historique%22%20id%3D%2217_0%22/%3E%0A</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22910%2C122%2C971%2C143%22%20href%3D%22page-historique.bmml%22%20alt%3D%22page-historique%22%20id%3D%2217_0%22/%3E%0A</map>
         <selectedIndex>0</selectedIndex>
         <text>Afficher%2C%20Modifier%2C%20Discuter%2C%20Historique</text>
       </controlProperties>
@@ -62,34 +62,34 @@
         <text>lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20%0AUt%20enim%20ad%20minim%20veniam%2C%20%0Aquis%20nostrud%20exercitation%0Aullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20%0A%5Bafficher%20la%20totalit%E9%20des%20paroles%5D</text>
       </controlProperties>
     </control>
-    <control controlID="25" controlTypeID="com.balsamiq.mockups::Title" x="158" y="617" w="259" h="-1" measuredW="65" measuredH="32" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Title" x="158" y="617" w="259" h="-1" measuredW="65" measuredH="26" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <align>left</align>
         <size>18</size>
         <text>Paroles</text>
       </controlProperties>
     </control>
-    <control controlID="30" controlTypeID="com.balsamiq.mockups::CheckBox" x="844" y="201" w="-1" h="-1" measuredW="171" measuredH="22" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::CheckBox" x="844" y="201" w="-1" h="-1" measuredW="152" measuredH="22" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Afficher%20les%20tablatures</text>
       </controlProperties>
     </control>
     <control controlID="31" controlTypeID="com.balsamiq.mockups::SearchBox" x="717" y="91" w="228" h="-1" measuredW="65" measuredH="25" zOrder="14" locked="false" isInGroup="-1"/>
-    <control controlID="32" controlTypeID="com.balsamiq.mockups::Link" x="859" y="117" w="-1" h="-1" measuredW="85" measuredH="20" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Link" x="859" y="117" w="-1" h="-1" measuredW="81" measuredH="17" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <size>10</size>
         <text>advanced%20search</text>
       </controlProperties>
     </control>
-    <control controlID="33" controlTypeID="com.balsamiq.mockups::Label" x="212" y="213" w="194" h="25" measuredW="111" measuredH="25" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Label" x="212" y="213" w="194" h="25" measuredW="101" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Langue%3A%20Fran%E7ais</text>
       </controlProperties>
     </control>
-    <control controlID="34" controlTypeID="com.balsamiq.mockups::Icon" x="720" y="127" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Icon" x="720" y="127" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <color>13421772</color>
-        <icon>StarIcon%7Clarge</icon>
+        <icon>StarIcon%7Cmedium</icon>
       </controlProperties>
     </control>
     <control controlID="37" controlTypeID="com.balsamiq.mockups::Icon" x="157" y="139" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="18" locked="false" isInGroup="-1">
@@ -102,36 +102,36 @@
         <text>lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.</text>
       </controlProperties>
     </control>
-    <control controlID="39" controlTypeID="com.balsamiq.mockups::Title" x="158" y="759" w="506" h="-1" measuredW="224" measuredH="32" zOrder="20" locked="false" isInGroup="-1">
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Title" x="158" y="759" w="506" h="-1" measuredW="207" measuredH="26" zOrder="20" locked="false" isInGroup="-1">
       <controlProperties>
         <align>left</align>
         <size>18</size>
         <text>L%27%E9poque%20des%20traductions</text>
       </controlProperties>
     </control>
-    <control controlID="40" controlTypeID="com.balsamiq.mockups::DataGrid" x="158" y="374" w="652" h="92" measuredW="444" measuredH="88" zOrder="21" locked="false" isInGroup="-1">
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::DataGrid" x="158" y="374" w="652" h="92" measuredW="408" measuredH="85" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Date%2C%20Dur%E9e%2C%20Artiste%2C%20R%F4le%0A%5B1952-03-02%5D%2C%20%5B2m16s%5D%2C%20%5BClaude%20Dubois%5D%5C%2C%20%5BMireille%20Duglun%5D%2C%20Interpr%E8tes%0A%5Bmars%201980%5D%2C%20%5B1m30s%5D%2C%20%5BSylvianne%20Fugain%5D%2C%20Interpr%E8te</text>
       </controlProperties>
     </control>
-    <control controlID="41" controlTypeID="com.balsamiq.mockups::Title" x="158" y="342" w="-1" h="-1" measuredW="146" measuredH="32" zOrder="22" locked="false" isInGroup="-1">
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Title" x="158" y="342" w="-1" h="-1" measuredW="136" measuredH="26" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
         <size>18</size>
         <text>Enregistrements</text>
       </controlProperties>
     </control>
-    <control controlID="43" controlTypeID="com.balsamiq.mockups::Title" x="157" y="277" w="-1" h="-1" measuredW="68" measuredH="32" zOrder="23" locked="false" isInGroup="-1">
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Title" x="157" y="277" w="-1" h="-1" measuredW="63" measuredH="26" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
         <size>18</size>
         <text>Cr%E9dits</text>
       </controlProperties>
     </control>
-    <control controlID="45" controlTypeID="com.balsamiq.mockups::Label" x="212" y="233" w="-1" h="-1" measuredW="266" measuredH="25" zOrder="24" locked="false" isInGroup="-1">
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Label" x="212" y="233" w="-1" h="-1" measuredW="232" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Editeur%3A%20%C9ditions%20Mondon%2C%20Maison%20Marcou</text>
       </controlProperties>
     </control>
-    <control controlID="48" controlTypeID="com.balsamiq.mockups::Title" x="157" y="861" w="-1" h="-1" measuredW="115" measuredH="32" zOrder="25" locked="false" isInGroup="-1">
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Title" x="157" y="861" w="-1" h="-1" measuredW="113" measuredH="26" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <size>18</size>
         <text>R%E9f%E9rence%28s%29</text>
@@ -142,7 +142,7 @@
         <text>1%29%20%5Bhttp%3A//fr.wikipedia.org/la-route-est-longue-lyrics%5D%0A2%29%20%22La%20passion%20des%20grands%22%2C%20ISBN%3A1341234242342%2C%20p.45%0A3%29%20%5Bhttp%3A//www.editionsmondion.com%5D</text>
       </controlProperties>
     </control>
-    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="212" y="195" w="194" h="25" measuredW="107" measuredH="25" zOrder="27" locked="false" isInGroup="-1">
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="212" y="195" w="194" h="25" measuredW="95" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Copyright%3A%201996</text>
       </controlProperties>
@@ -152,12 +152,12 @@
         <text>%5BClaude%20Dubois%5D%20%28Auteur%29%2C%20%5BMarcel%20Deloncour%5D%20%28Compositeur%29%2C%20%5BFran%E7ois%20Hardy%5D%20%28Muse%29</text>
       </controlProperties>
     </control>
-    <control controlID="53" controlTypeID="com.balsamiq.mockups::Label" x="212" y="254" w="-1" h="-1" measuredW="109" measuredH="25" zOrder="29" locked="false" isInGroup="-1">
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Label" x="212" y="254" w="-1" h="-1" measuredW="99" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Nature%3A%20Chanson</text>
       </controlProperties>
     </control>
-    <control controlID="54" controlTypeID="com.balsamiq.mockups::Label" x="157" y="972" w="717" h="25" measuredW="693" measuredH="25" zOrder="30" locked="false" isInGroup="-1">
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Label" x="157" y="972" w="717" h="25" measuredW="598" measuredH="21" zOrder="30" locked="false" isInGroup="-1">
       <controlProperties>
         <text>R%E9vision%2054%2C%20le%2010%20janvier%202011%20%E0%208%3A42%20par%20%5Bmyrdhrin77%5D%2C%20v%E9rifi%E9%20le%2011%20janvier%202011%20%E0%2013%3A45%20par%20%5Bpfreysonnet%5D</text>
       </controlProperties>
@@ -168,12 +168,12 @@
         <text>Ces%20sections%20correspondent%20%E0%20des%20sections%20suppl%E9mentaire.</text>
       </controlProperties>
     </control>
-    <control controlID="56" controlTypeID="com.balsamiq.mockups::DataGrid" x="157" y="513" w="652" h="92" measuredW="245" measuredH="88" zOrder="32" locked="false" isInGroup="-1">
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::DataGrid" x="157" y="513" w="652" h="92" measuredW="228" measuredH="85" zOrder="32" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Oeuvre/Enregistrement%2C%20Nature%0A%5BThe%20road%20is%20long%5D%2C%20Traduction%0A%5BLa%20case%20es%20mignones%5D%2C%20Traduit%20</text>
       </controlProperties>
     </control>
-    <control controlID="57" controlTypeID="com.balsamiq.mockups::Title" x="157" y="481" w="-1" h="-1" measuredW="123" measuredH="32" zOrder="33" locked="false" isInGroup="-1">
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Title" x="157" y="481" w="-1" h="-1" measuredW="117" measuredH="26" zOrder="33" locked="false" isInGroup="-1">
       <controlProperties>
         <align>left</align>
         <size>18</size>
