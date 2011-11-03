@@ -57,9 +57,9 @@
         <text>%5BFavoris%5D%20%28123%29%0A%5BNouvelles%20acquisitions%5D%20%2812%29%0A%20%0A%5BMadonna%5D%20%2815%29%0A%5BBiblioth%E8que%20du%20salon%5D%20%28150%29%0A%5BiTune%5D%20%28442%29%0A%20%0A%5Bafficher%20plus%20d%27%E9tiquettes%5D</text>
       </controlProperties>
     </control>
-    <control controlID="23" controlTypeID="com.balsamiq.mockups::DataGrid" x="378" y="225" w="715" h="320" measuredW="333" measuredH="55" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::DataGrid" x="378" y="225" w="715" h="320" measuredW="485" measuredH="295" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Titre%20%5E%2C%20Format%2C%20%C9tiquette%28s%29%2C%20Appr%E9ciation%0ALike%20a%20Virgin%2C%20CD%2C%20Madonna%5C%2C%20iTune%2C%20****%0A%7B75L%2C%200L%2C%200L%2C%200L%7D</text>
+        <text>Titre%20%5E%2C%20Format%2C%20%C9tiquette%28s%29%2C%20Appr%E9ciation%0AAmerican%20Life%2C%20CD%2C%20Madonna%5C%2C%20Biblioth%E8que%20du%20salon%2C%20*%0ABedtime%20Stories%2C%20CD%2C%20Madonna%5C%2C%20Biblioth%E8que%20du%20salon%2C%20***%0ACelebration%20%5C%5BDisk%201%5C%5D%2C%20CD%2C%20Madonna%5C%2C%20Biblioth%E8que%20du%20salon%2C%20****%0ACelebration%20%5C%5BDisk%202%5C%5D%2C%20CD%2C%20Madonna%5C%2C%20Biblioth%E8que%20du%20salon%2C%20*****%0AHard%20Candy%2C%20CD%2C%20Madonna%5C%2C%20Biblioth%E8que%20du%20salon%2C%20**%0ALike%20a%20Virgin%2C%20MP3%2C%20Madonna%5C%2C%20iTune%2C%20****%0AMusic%2C%20CD%2C%20Madonna%5C%2C%20Biblioth%E8que%20du%20salon%2C%20***%0ARay%20of%20Light%2C%20CD%2C%20Madonna%5C%2C%20Biblioth%E8que%20du%20salon%2C%20*****%0ASomething%20to%20Remember%2C%20CD%2C%20Madonna%5C%2C%20Biblioth%E8que%20du%20salon%2C%20*****%0A%7B75L%2C%200L%2C%200L%2C%200L%7D</text>
       </controlProperties>
     </control>
     <control controlID="24" controlTypeID="com.balsamiq.mockups::SubTitle" x="157" y="240" w="-1" h="-1" measuredW="78" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
