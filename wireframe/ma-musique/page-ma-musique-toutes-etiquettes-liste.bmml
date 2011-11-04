@@ -54,36 +54,38 @@
     </control>
     <control controlID="22" controlTypeID="com.balsamiq.mockups::Paragraph" x="157" y="264" w="-1" h="-1" measuredW="200" measuredH="140" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>%5BFavoris%5D%20%28123%29%0A%5BNouvelles%20acquisitions%5D%20%2812%29%0A%20%0A%5BMadonna%5D%20%2815%29%0A%5BBiblioth%E8que%20du%20salon%5D%20%28150%29%0A%5BiTune%5D%20%28442%29%0A%20%0A%5Btoutes%20les%20%E9tiquettes%5D</text>
+        <text>%5BFavoris%5D%20%28123%29%0A%5BNouvelles%20acquisitions%5D%20%2812%29%0A%20%0A%5BMadonna%5D%20%2815%29%0A%5BBiblioth%E8que%20du%20salon%5D%20%28150%29%0A%5BiTune%5D%20%28442%29%0A%20%0A%5BToutes%20les%20%E9tiquettes%5D</text>
       </controlProperties>
     </control>
-    <control controlID="23" controlTypeID="com.balsamiq.mockups::DataGrid" x="378" y="225" w="715" h="295" measuredW="548" measuredH="295" zOrder="12" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Sel.%20%3E%2C%20Titre%20%5E%2C%20Format%2C%20%C9tiquette%28s%29%2C%20Appr%E9ciation%0A%5B%20%5D%2C%20American%20Life%2C%20CD%2C%20Madonna%5C%2C%20Biblioth%E8que%20du%20salon%2C%20*%0A%5B%20%5D%2C%20Bedtime%20Stories%2C%20CD%2C%20Madonna%5C%2C%20Biblioth%E8que%20du%20salon%2C%20***%0A%5B%20%5D%2C%20Celebration%20%5C%5BDisk%201%5C%5D%2C%20CD%2C%20Madonna%5C%2C%20Biblioth%E8que%20du%20salon%2C%20****%0A%5B%20%5D%2C%20Celebration%20%5C%5BDisk%202%5C%5D%2C%20CD%2C%20Madonna%5C%2C%20Biblioth%E8que%20du%20salon%2C%20*****%0A%5B%20%5D%2C%20Hard%20Candy%2C%20CD%2C%20Madonna%5C%2C%20Biblioth%E8que%20du%20salon%2C%20**%0A%5B%20%5D%2C%20Like%20a%20Virgin%2C%20MP3%2C%20Madonna%5C%2C%20iTune%2C%20****%0A%5B%20%5D%2C%20Music%2C%20CD%2C%20Madonna%5C%2C%20Biblioth%E8que%20du%20salon%2C%20***%0A%5B%20%5D%2C%20Ray%20of%20Light%2C%20CD%2C%20Madonna%5C%2C%20Biblioth%E8que%20du%20salon%2C%20*****%0A%5B%20%5D%2C%20Something%20to%20Remember%2C%20CD%2C%20Madonna%5C%2C%20Biblioth%E8que%20du%20salon%2C%20*****%0A%7B10L%2C75L%2C%200L%2C%200L%2C%200L%7D</text>
-      </controlProperties>
-    </control>
-    <control controlID="24" controlTypeID="com.balsamiq.mockups::SubTitle" x="157" y="240" w="-1" h="-1" measuredW="78" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::SubTitle" x="157" y="240" w="-1" h="-1" measuredW="78" measuredH="24" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <size>16</size>
         <text>%C9tiquettes</text>
       </controlProperties>
     </control>
-    <control controlID="25" controlTypeID="com.balsamiq.mockups::SubTitle" x="378" y="201" w="-1" h="-1" measuredW="68" measuredH="24" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::SubTitle" x="378" y="201" w="-1" h="-1" measuredW="154" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <size>16</size>
-        <text>Madonna</text>
+        <text>Toutes%20les%20%E9tiquettes</text>
       </controlProperties>
     </control>
-    <control controlID="27" controlTypeID="com.balsamiq.mockups::IconLabel" x="157" y="197" w="-1" h="-1" measuredW="132" measuredH="32" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::IconLabel" x="157" y="197" w="-1" h="-1" measuredW="132" measuredH="32" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>AddPageIcon%7Cmedium</icon>
         <labelPosition>right</labelPosition>
         <text>Nouvelle%20Entr%E9e</text>
       </controlProperties>
     </control>
-    <control controlID="29" controlTypeID="com.balsamiq.mockups::Label" x="378" y="531" w="-1" h="-1" measuredW="131" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::LinkBar" x="378" y="223" w="-1" h="-1" measuredW="82" measuredH="17" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>%5B%3C%3C%5D%20%5B%3C%5D%201%20%5B2%5D%20%5B3%5D%20%5B4%5D%20...%20%5B%3E%5D%20%5B%3E%3E%5D</text>
+        <selectedIndex>1</selectedIndex>
+        <size>10</size>
+        <text>Nuage%2C%20Liste</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Paragraph" x="378" y="249" w="709" h="303" measuredW="200" measuredH="140" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5BBiblioth%E8que%20du%20salon%5D%0A%5BFavoris%5D%0A%5BMadonna%5D%0A%5BiTune%5D%0A%5Bnouvelles%20acquisitions%5D%0A%5Bsoftware%5D%0A%5Bstatistics%5D%0A%5Bteaching%5D%0A%5Btechnology%5D%0A%5Btips%5D%0A%5Btool%5D%0A%5Btools%5D%0A%5Btoread%5D%0A%5Btravel%5D%0A%5Btutorial%5D%0A%5Btv%5D%0A%20%0A%5B%3C%3C%5D%20%5B%3C%5D%201%20%5B2%5D%20%5B3%5D%20%5B4%5D%20...%20%5B%3E%5D%20%5B%3E%3E%5D</text>
       </controlProperties>
     </control>
   </controls>
