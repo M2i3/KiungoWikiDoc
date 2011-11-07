@@ -52,45 +52,35 @@
         <icon>MusicIcon%7Clarge</icon>
       </controlProperties>
     </control>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::Paragraph" x="157" y="264" w="-1" h="-1" measuredW="200" measuredH="140" zOrder="11" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%5BFavoris%5D%20%28123%29%0A%5BNouvelles%20acquisitions%5D%20%2812%29%0A%20%0A%5BMadonna%5D%20%2815%29%0A%5BBiblioth%E8que%20du%20salon%5D%20%28150%29%0A%5BiTune%5D%20%28442%29%0A%20%0A%5BToutes%20les%20%E9tiquettes%5D</text>
-      </controlProperties>
-    </control>
-    <control controlID="24" controlTypeID="com.balsamiq.mockups::SubTitle" x="157" y="240" w="-1" h="-1" measuredW="78" measuredH="24" zOrder="12" locked="false" isInGroup="-1">
-      <controlProperties>
-        <size>16</size>
-        <text>%C9tiquettes</text>
-      </controlProperties>
-    </control>
-    <control controlID="25" controlTypeID="com.balsamiq.mockups::SubTitle" x="378" y="201" w="-1" h="-1" measuredW="154" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::SubTitle" x="378" y="201" w="-1" h="-1" measuredW="154" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <size>16</size>
         <text>Toutes%20les%20%E9tiquettes</text>
       </controlProperties>
     </control>
-    <control controlID="27" controlTypeID="com.balsamiq.mockups::IconLabel" x="157" y="197" w="-1" h="-1" measuredW="132" measuredH="32" zOrder="14" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>AddPageIcon%7Cmedium</icon>
-        <labelPosition>right</labelPosition>
-        <text>Nouvelle%20Entr%E9e</text>
-      </controlProperties>
-    </control>
-    <control controlID="28" controlTypeID="com.balsamiq.mockups::TagCloud" x="378" y="249" w="709" h="280" measuredW="350" measuredH="250" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::TagCloud" x="378" y="249" w="709" h="280" measuredW="350" measuredH="250" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Biblioth%E8que%5C%20du%5C%20salon%20Favoris%20Madonna%20iTune%20nouvelles%5C%20acquisitions%20software%20statistics%20teaching%20technology%20tips%20tool%20tools%20toread%20travel%20tutorial%20tutorials%20tv%20twitter%20typography%20ubuntu%20usability%20video%20videos%20visualization%20web%20web%5C%202.0%20web%5C%20design%20webdev%20wiki%20windows%20wordpress%20work%20writing%20youtube</text>
       </controlProperties>
     </control>
-    <control controlID="30" controlTypeID="com.balsamiq.mockups::LinkBar" x="378" y="223" w="-1" h="-1" measuredW="82" measuredH="17" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::LinkBar" x="378" y="223" w="-1" h="-1" measuredW="82" measuredH="17" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
+        <hrefs>page-ma-musique-toutes-etiquettes-nuage%26bm%3Bpage-ma-musique-toutes-etiquettes-nuage.bmml%26bm%3Bpage-ma-musique-toutes-etiquettes-nuage.bmml%26bm%3Bpage-ma-musique-toutes-etiquettes-nuage.bmml%2Cpage-ma-musique-toutes-etiquettes-liste%26bm%3Bpage-ma-musique-toutes-etiquettes-liste.bmml%26bm%3Bpage-ma-musique-toutes-etiquettes-liste.bmml%26bm%3Bpage-ma-musique-toutes-etiquettes-liste.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22339%2C206%2C374%2C223%22%20href%3D%22page-ma-musique-toutes-etiquettes-nuage.bmml%22%20alt%3D%22page-ma-musique-toutes-etiquettes-nuage%22%20id%3D%2230_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22394%2C206%2C421%2C223%22%20href%3D%22page-ma-musique-toutes-etiquettes-liste.bmml%22%20alt%3D%22page-ma-musique-toutes-etiquettes-liste%22%20id%3D%2230_1%22/%3E%0A</map>
         <selectedIndex>0</selectedIndex>
         <size>10</size>
         <text>Nuage%2C%20Liste</text>
       </controlProperties>
     </control>
-    <control controlID="31" controlTypeID="com.balsamiq.mockups::StickyNote" x="39" y="249" w="109" h="170" measuredW="109" measuredH="123" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::StickyNote" x="39" y="249" w="109" h="170" measuredW="109" measuredH="123" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <text>La%20liste%20des%20%E9tiquettes%20%28%E0%20gauche%29%20renferme%20le%20top%2010%20des%20%E9tiquettes%20les%20plus%20utilis%E9es</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Component" x="157" y="201" w="200" h="207" measuredW="200" measuredH="207" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22118%2C251%2C318%2C391%22%20href%3D%22page-ma-musique-toutes-etiquettes-liste.bmml%22%20alt%3D%22page-ma-musique-toutes-etiquettes-liste%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22118%2C184%2C250%2C216%22%20href%3D%22page-ma-musique-nouvelle-entree.bmml%22%20alt%3D%22page-ma-musique-nouvelle-entree%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22118%2C251%2C318%2C391%22%20href%3D%22page-ma-musique-toutes-etiquettes-liste.bmml%22%20alt%3D%22page-ma-musique-toutes-etiquettes-liste%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22118%2C184%2C250%2C216%22%20href%3D%22page-ma-musique-nouvelle-entree.bmml%22%20alt%3D%22page-ma-musique-nouvelle-entree%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2221%2C70%2C221%2C210%22%20href%3D%22page-ma-musique-toutes-etiquettes-liste.bmml%22%20alt%3D%22page-ma-musique-toutes-etiquettes-liste%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2221%2C3%2C153%2C35%22%20href%3D%22page-ma-musique-nouvelle-entree.bmml%22%20alt%3D%22page-ma-musique-nouvelle-entree%22%20id%3D%222%22/%3E</map>
+        <src>./assets/symbols.bmml#Navigation-Etiquette</src>
       </controlProperties>
     </control>
   </controls>
