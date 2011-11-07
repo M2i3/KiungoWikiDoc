@@ -1,0 +1,162 @@
+<mockup version="1.0" skin="sketch" measuredW="1162" measuredH="662" mockupW="1080" mockupH="645">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="82" y="17" w="1080" h="645" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>KiungoWiki%0Ahttp%3A//fr.kiugowiki.org</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="142" y="87" w="960" h="538" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::LinkBar" x="240" y="567" w="-1" h="-1" measuredW="704" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Accueil%2C%20Changements%20r%E9cents%2C%20Conditions%20d%27utilisation%2C%20Nous%20contacter%2C%20%C0%20propos%20de%20KiungoWiki%2C%20Plan%20du%20site</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="269" y="592" w="705" h="25" measuredW="555" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>%28c%29%202011%20Kiungowiki%20%5C-%20Pierre%20Freyssonnet%2C%20Copyrights%20des%20textes%20et%20chansons%20-%20artistes%20respectifs</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Title" x="148" y="115" w="-1" h="-1" measuredW="240" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>KiungoWiki%20-%20La%20r%E9f%E9rence%20en%20musique</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::LinkBar" x="944" y="91" w="-1" h="-1" measuredW="149" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>Ma%20musique%2C%20Mon%20profil</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::LinkBar" x="148" y="90" w="-1" h="-1" measuredW="375" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Accueil%2C%20Albums%2C%20Artistes%2C%20Enregistrements%2C%20Oeuvres</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::SearchBox" x="713" y="91" w="228" h="-1" measuredW="65" measuredH="25" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Link" x="855" y="117" w="-1" h="-1" measuredW="81" measuredH="17" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>advanced%20search</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Title" x="212" y="137" w="875" h="-1" measuredW="213" measuredH="50" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <text>Ma%20musique</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Icon" x="157" y="144" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>MusicIcon%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Paragraph" x="157" y="264" w="-1" h="-1" measuredW="200" measuredH="140" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5BFavoris%5D%20%28123%29%0A%5BNouvelles%20acquisitions%5D%20%2812%29%0A%20%0A%5BMadonna%5D%20%2815%29%0A%5BBiblioth%E8que%20du%20salon%5D%20%28150%29%0A%5BiTune%5D%20%28442%29%0A%20%0A%5Btoutes%20les%20%E9tiquettes%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::SubTitle" x="157" y="240" w="-1" h="-1" measuredW="78" measuredH="24" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%C9tiquettes</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::SubTitle" x="378" y="201" w="-1" h="-1" measuredW="116" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Nouvelle%20Entr%E9e</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::IconLabel" x="157" y="197" w="-1" h="-1" measuredW="132" measuredH="32" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>AddPageIcon%7Cmedium</icon>
+        <labelPosition>right</labelPosition>
+        <text>Nouvelle%20Entr%E9e</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Button" x="378" y="525" w="-1" h="-1" measuredW="66" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ajouter</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Label" x="451" y="527" w="-1" h="-1" measuredW="63" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ou%20%5Bannuler%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Label" x="378" y="288" w="156" h="23" measuredW="109" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Date%20d%27acquisition%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::TextInput" x="378" y="311" w="102" h="-1" measuredW="80" measuredH="27" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2011-05-01</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="378" y="349" w="156" h="23" measuredW="71" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%C9tiquettes%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::TextInput" x="378" y="372" w="412" h="-1" measuredW="230" measuredH="27" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%3CBiblioth%E8que%20du%20salon%28x%29%3E%2C%20%3CiTune%28x%29%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Label" x="534" y="287" w="156" h="23" measuredW="81" measuredH="21" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Appr%E9ciation%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="__group__" x="534" y="319" w="96" h="16" measuredW="96" measuredH="16" zOrder="22" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="38">
+          <controlProperties>
+            <icon>StarIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="20" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="38">
+          <controlProperties>
+            <icon>StarIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="40" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="38">
+          <controlProperties>
+            <icon>StarIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="60" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="3" locked="false" isInGroup="38">
+          <controlProperties>
+            <color>13421772</color>
+            <icon>StarIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="80" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="4" locked="false" isInGroup="38">
+          <controlProperties>
+            <color>13421772</color>
+            <icon>StarIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::TextArea" x="378" y="431" w="412" h="79" measuredW="200" measuredH="140" zOrder="23" locked="false" isInGroup="-1"/>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Label" x="378" y="408" w="156" h="23" measuredW="94" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Commentaires%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Label" x="378" y="227" w="156" h="23" measuredW="136" measuredH="21" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Album/Enregistrement%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::TextInput" x="378" y="250" w="412" h="-1" measuredW="117" measuredH="27" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%3CSign%E9%20Dubois%28x%29%3E</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
